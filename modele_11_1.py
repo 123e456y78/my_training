@@ -27,6 +27,7 @@ ax2.plot(np.random.random(5))
 ax3 = plt.subplot(2, 3, 3)
 ax3.plot(np.random.random(5))
 plt.suptitle('Графики', fontsize=28, color='g')
+#показывает получившиеся графики
 ax1.grid()
 ax2.grid()
 ax3.grid()
