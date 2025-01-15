@@ -3,7 +3,7 @@ from aiogram.filters import CommandStart
 import asyncio
 
 
-api = "7314899914:AAHcsc1SyUJccc3bK3jNxYvAkCdAfC8fxas"
+api = "!!!!!!!!!!!!!!!"
 bot = Bot(token = api)
 dp = Dispatcher()
 
