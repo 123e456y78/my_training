@@ -5,7 +5,7 @@ from aiogram.fsm.context import FSMContext
 from aiogram.fsm.state import StatesGroup, State
 import asyncio
 
-api = "7314899914:AAHcsc1SyUJccc3bK3jNxYvAkCdAfC8fxas"
+api = "!!!!!!!!!!!!!!!!!!!!!!!!!!"
 bot = Bot(token = api)
 dp = Dispatcher()
 
